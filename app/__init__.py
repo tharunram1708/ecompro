@@ -1,0 +1,1 @@
+"""ECOMPRO backend package."""
